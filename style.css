@@ -1,0 +1,20 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px greenyellow;
+}
+
+.mdlTrain{
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+    border-color: tomato;
+    color: aqua;
+    box-shadow: 8px 8px 8px blueviolet;
+}
+
+.NOT{
+    font-size: 16px;
+}
