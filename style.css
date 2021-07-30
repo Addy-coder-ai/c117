@@ -1,11 +1,12 @@
 .heading{
-    font-size: 25px;
+    font-size: 30px;
     width: 100%;
     margin: 0px;
     box-shadow: 5px 5px 5px greenyellow;
 }
 
 .mdlTrain{
+    font-size:23px;
     float: none;
     background: white;
     padding: 10px;
